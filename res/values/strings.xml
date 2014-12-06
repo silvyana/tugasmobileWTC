@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WTCShops</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_amadeus">Amadeus Shop</string>
+    <string name="title_activity_growup">Growup Shop</string>
+    <string name="title_activity_miami_beach">Miami Beach</string>
+
+</resources>
